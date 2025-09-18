@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to any field with quantifiable data that needs to be measured, stored, and analyzed. A good example of this would be the field of chemistry. After an experiment (or multiple experiments), data science can be used to store experiment (via Pandas, SQL, or even an Excel sheet), display experiment data in a digestable way, and form conclusions after analysis of the data.
