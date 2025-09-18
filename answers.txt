@@ -5,3 +5,7 @@ Answer: Git is a great tool for developers who work in teams on larger projects.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to any field with quantifiable data that needs to be measured, stored, and analyzed. A good example of this would be the field of chemistry. After an experiment (or multiple experiments), data science can be used to store experiment (via Pandas, SQL, or even an Excel sheet), display experiment data in a digestable way, and form conclusions after analysis of the data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines the changes on two separate branches to create one new branch with all the changes. Rebasing is theoretically similar, combining the code changes in two separate branches, but Rebasing places a branch and all of its commits directly on top of the other branch. This can result in a cleaner log, but could cause real issues if there's any conflicts. Use Rebasing specifically when you've worked on a feature independent of the branch you'd eventually like to Rebase on, and use Merge if there's a fear of conflict or if your feature is more integrated into the codebase. 
