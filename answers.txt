@@ -9,3 +9,7 @@ Answer: Data science can be applied to any field with quantifiable data that nee
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the changes on two separate branches to create one new branch with all the changes. Rebasing is theoretically similar, combining the code changes in two separate branches, but Rebasing places a branch and all of its commits directly on top of the other branch. This can result in a cleaner log, but could cause real issues if there's any conflicts. Use Rebasing specifically when you've worked on a feature independent of the branch you'd eventually like to Rebase on, and use Merge if there's a fear of conflict or if your feature is more integrated into the codebase. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to making new friends, connections, and learning more about the fields of study I have interest in.
